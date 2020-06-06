@@ -37,7 +37,7 @@ What I reviewed
 ---------------
 
 - https://github.com/srid/neuron (very clean, but requires nix for setup, no [drop-in executable] yet)
-
+- https://gitlab.com/sthesing/libzettels (Rust, apparently manages index creation)
 
 [drop-in executable]: https://github.com/srid/neuron/issues/183
 
