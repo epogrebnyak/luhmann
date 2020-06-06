@@ -39,7 +39,8 @@ What I reviewed
 ---------------
 
 - https://github.com/srid/neuron (very clean, but requires nix for setup, no [drop-in executable] yet)
-- https://gitlab.com/sthesing/libzettels (Rust, apparently manages index creation)
+- https://gitlab.com/sthesing/libzettels (backend lib in Rust, apparently manages index creation)
+- https://github.com/crelder/zettelkasten/tree/master/Example_Project/Zettelkastenprogramme (has scripts for specific tasks, but not updated)
 
 [drop-in executable]: https://github.com/srid/neuron/issues/183
 
