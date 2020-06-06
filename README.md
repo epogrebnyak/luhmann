@@ -36,6 +36,8 @@ What I learned so far
 What I reviewed
 ---------------
 
-- https://github.com/srid/neuron (very clean, but requires nix for setup)
+- https://github.com/srid/neuron (very clean, but requires nix for setup, no [drop-in executable] yet)
 
+
+[drop-in executable]: https://github.com/srid/neuron/issues/183
 
