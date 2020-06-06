@@ -29,7 +29,7 @@ Non-goals:
 
 ## What I learned so far
 
-- I can use https://github.com/eyeseast/python-frontmatter/ to manage markdown metadata ('front matter')
+- I can use https://github.com/eyeseast/python-frontmatter/ to manage markdown metadata ('front matter')  in YAML, TOML or JSON
 
 ## Reviewed
 
