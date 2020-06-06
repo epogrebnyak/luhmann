@@ -32,3 +32,10 @@ What I learned so far
 
 - I can use https://github.com/eyeseast/python-frontmatter/ to manage markdown metadata ('front matter')
 
+
+What I reviewed
+---------------
+
+- https://github.com/srid/neuron (very clean, but requires nix for setup)
+
+
