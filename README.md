@@ -2,8 +2,7 @@
 
 Find a productive workflow to use knowledge cards. Repo named after [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann).
 
-Goal
-----
+## Goal
 
 My goal is to manage https://github.com/epogrebnyak/learn better. [learn] is a collection of my markdown notes on programming, data management and teaching of IT, unclassified and not categorised. 
 
@@ -23,24 +22,26 @@ I attach less weight to:
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) seems a good 
 note-taking philosophy. Coupled with some static generator, hope it can work well. 
 
-### Non-goals and itches
+Non-goals: 
 
-- write a new python package
+- write a new python package 
 - better choice of a theme/template for html
 
-
-What I learned so far
----------------------
+## What I learned so far
 
 - I can use https://github.com/eyeseast/python-frontmatter/ to manage markdown metadata ('front matter')
 
-
-What I reviewed
----------------
+## What I reviewed
 
 - https://github.com/srid/neuron (very clean, but requires nix for setup, no [drop-in executable] yet)
 - https://gitlab.com/sthesing/libzettels (backend lib in Rust, apparently manages index creation)
 - https://github.com/crelder/zettelkasten/tree/master/Example_Project/Zettelkastenprogramme (has scripts for specific tasks, but not updated)
 
 [drop-in executable]: https://github.com/srid/neuron/issues/183
+
+## Next steps
+
+- generate cards tree for [mkdocs-material yaml tree](https://github.com/squidfunk/mkdocs-material/blob/6fcdcc50a42649b08dcec9383d381c7a3ca7d9ae/mkdocs.yml#L127-L150)
+- or generate cards tree with [get-pelican](https://github.com/getpelican/pelican/issues/398)
+- use simple [jinja](https://jinja.palletsprojects.com) template
 
