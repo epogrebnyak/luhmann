@@ -6,6 +6,8 @@ Find a productive workflow to use knowledge cards. Repo named after [Niklas Luhm
 
 My goal is to manage https://github.com/epogrebnyak/learn better. [learn] is a collection of markdown notes on programming, data management and teaching of IT, neither classified, nor categorised. 
 
+[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) seems a good note-taking philosophy. Coupled with some static generator, hope it can work well.
+
 [learn]: https://github.com/epogrebnyak/learn
 
 I would like to:
@@ -18,9 +20,6 @@ I would like to:
 I attach less weight to:
 
 - sticking to one specific tool for all my workflow
-
-[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) seems a good 
-note-taking philosophy. Coupled with some static generator, hope it can work well. 
 
 Non-goals: 
 
