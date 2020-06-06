@@ -1,11 +1,13 @@
 # luhmann
 
-Find a productive workflow to use knowledge cards.
+Find a productive workflow to use knowledge cards. Repo named after [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann).
 
 Goal
 ----
 
-My goal is to manage https://github.com/epogrebnyak/learn better. `learn` is a collection of my markdown notes on programming, data management and teaching of IT, unclassified and not categorised. 
+My goal is to manage https://github.com/epogrebnyak/learn better. `[learn]` is a collection of my markdown notes on programming, data management and teaching of IT, unclassified and not categorised. 
+
+[learn]: https://github.com/epogrebnyak/learn
 
 I would like to:
 
@@ -19,7 +21,7 @@ I attach less weight to:
 - sticking to one specific tool for all my workflow
 
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) seems a good 
-philosophy. Coupled with some static generator, hope it can work well. 
+note-taking philosophy. Coupled with some static generator, hope it can work well. 
 
 ### Non-goals and itches
 
