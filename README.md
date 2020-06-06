@@ -31,11 +31,11 @@ Non-goals:
 
 - I can use https://github.com/eyeseast/python-frontmatter/ to manage markdown metadata ('front matter')
 
-## What I reviewed
+## Reviewed
 
-- https://github.com/srid/neuron (very clean, but requires nix for setup, no [drop-in executable] yet)
-- https://gitlab.com/sthesing/libzettels (backend lib in Rust, apparently manages index creation)
-- https://github.com/crelder/zettelkasten/tree/master/Example_Project/Zettelkastenprogramme (has scripts for specific tasks, but not updated)
+- [srid/neuron](https://github.com/srid/neuron) - very clean, but requires nix for setup, no [drop-in executable] yet
+- [sthesing/libzettels](https://gitlab.com/sthesing/libzettels) - backend lib in Rust, apparently manages index creation
+- [@crelder scrits](https://github.com/crelder/zettelkasten/tree/master/Example_Project/Zettelkastenprogramme) - has scripts for specific tasks, but not updated
 
 [drop-in executable]: https://github.com/srid/neuron/issues/183
 
