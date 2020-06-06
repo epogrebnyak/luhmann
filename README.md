@@ -4,7 +4,7 @@ Find a productive workflow to use knowledge cards. Repo named after [Niklas Luhm
 
 ## Goal
 
-My goal is to manage https://github.com/epogrebnyak/learn better. [learn] is a collection of my markdown notes on programming, data management and teaching of IT, unclassified and not categorised. 
+My goal is to manage https://github.com/epogrebnyak/learn better. [learn] is a collection of markdown notes on programming, data management and teaching of IT, neither classified, nor categorised. 
 
 [learn]: https://github.com/epogrebnyak/learn
 
