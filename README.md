@@ -17,15 +17,15 @@ I would like to:
 I attach less weight to:
 
 - sticking to one specific tool for all my workflow
-- better choice of a better theme/template for html
 
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) seems a good 
 philosophy. Coupled with some static generator, hope it can work well. 
 
 ### Non-goals and itches
 
-- write own python package
-- re-write someone else's package
+- write a new python package
+- better choice of a theme/template for html
+
 
 What I learned so far
 ---------------------
