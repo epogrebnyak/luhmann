@@ -1,6 +1,6 @@
 # luhmann
 
-Explore knowledge cards for productive knowledge management.
+Find a productive workflow to use knowledge cards.
 
 Goal
 ----
